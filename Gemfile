@@ -52,4 +52,7 @@ group :development do
 
   # Acts as Votable
   gem 'acts_as_votable', '~> 0.10.0'
+
+  # Simple form
+  gem 'simple_form', '~> 3.2', '>= 3.2.1'
 end
