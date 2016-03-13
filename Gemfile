@@ -46,4 +46,7 @@ group :development do
 
   # Devise for users authentication
   gem 'devise', '~> 3.5', '>= 3.5.6'
+
+  # Bootstrap Sass for stylesheets
+  gem 'bootstrap-sass', '~> 3.3.6'
 end
