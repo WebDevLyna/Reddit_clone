@@ -49,4 +49,7 @@ group :development do
 
   # Bootstrap Sass for stylesheets
   gem 'bootstrap-sass', '~> 3.3.6'
+
+  # Acts as Votable
+  gem 'acts_as_votable', '~> 0.10.0'
 end
